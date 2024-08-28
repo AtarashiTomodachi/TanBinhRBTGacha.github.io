@@ -433,7 +433,7 @@ body {
   }
 }
   
-@media (min-width: 1400px) {
+@media (min-width: 1400px) and (max-width: 1500px) {
   .header h1 {
     font-size: 50px;
     margin-top: 2rem;
