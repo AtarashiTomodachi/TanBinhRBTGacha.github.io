@@ -368,7 +368,7 @@ body {
 }
 
 /* ----------------------------------------RESPONSIVE CODE HERE----------------------------------- */
-@media (max-width: 700px) {
+@media (max-width: 712px) {
   .header h1 {
     font-size: 30px;
     margin-top: 2rem;
@@ -384,8 +384,8 @@ body {
     margin-bottom: 2rem;
   }
   .container {
-    height: 25rem;
-    width: 20rem;
+    height: 30rem;
+    width: 25rem;
     text-align: center;
   }
   .container h1 {
@@ -440,8 +440,8 @@ body {
     text-align: center;
   }
   .header img {
-    height: 20rem;
-    width: 25rem;
+    height: 30rem;
+    width: 30rem;
   }
   .header h2 {
     font-size: 25px;
